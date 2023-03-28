@@ -1,0 +1,81 @@
+SET,BigFive,Question Code,Question
+1,Extraversion,EXT3,I feel comfortable around people.
+1,Extraversion,EXT4,I keep in the background.
+1,Extraversion,EXT7,I talk to a lot of different people at parties.
+1,Extraversion,EXT8,I don't like to draw attention to myself.
+1,Neuroticism,EST1,I get stressed out easily.
+1,Neuroticism,EST2,I am relaxed most of the time.
+1,Neuroticism,EST3,I worry about things.
+1,Neuroticism,EST10,I often feel blue.
+1,Agreeableness,AGR1,I feel little concern for others.
+1,Agreeableness,AGR2,I am interested in people.
+1,Agreeableness,AGR5,I am not interested in other people's problems.
+1,Agreeableness,AGR8,I take time out for others.
+1,Conscientiousness,CSN3,I pay attention to details.
+1,Conscientiousness,CSN4,I make a mess of things.
+1,Conscientiousness,CSN5,I get chores done right away.
+1,Conscientiousness,CSN8,I shirk my duties.
+1,Openness,OPN5,I have excellent ideas.
+1,Openness,OPN6,I do not have a good imagination.
+1,Openness,OPN7,I am quick to understand things.
+1,Openness,OPN10,I am full of ideas.
+2,Extraversion,EXT1,I am the life of the party.
+2,Extraversion,EXT4,I keep in the background.
+2,Extraversion,EXT6,I have little to say.
+2,Extraversion,EXT8,I don't like to draw attention to myself.
+2,Neuroticism,EST2,I am relaxed most of the time.
+2,Neuroticism,EST4,I seldom feel blue.
+2,Neuroticism,EST7,I change my mood a lot.
+2,Neuroticism,EST8,I have frequent mood swings.
+2,Agreeableness,AGR5,I am not interested in other people's problems.
+2,Agreeableness,AGR6,I have a soft heart.
+2,Agreeableness,AGR9,I feel others' emotions.
+2,Agreeableness,AGR10,I make people feel at ease.
+2,Conscientiousness,CSN1,I am always prepared.
+2,Conscientiousness,CSN2,I leave my belongings around.
+2,Conscientiousness,CSN6,I often forget to put things back in their proper place.
+2,Conscientiousness,CSN7,I like order.
+2,Openness,OPN1,I have a rich vocabulary.
+2,Openness,OPN3,I have a vivid imagination.
+2,Openness,OPN4,I am not interested in abstract ideas.
+2,Openness,OPN8,I use difficult words.
+3,Extraversion,EXT1,I am the life of the party.
+3,Extraversion,EXT2,I don't talk a lot.
+3,Extraversion,EXT7,I talk to a lot of different people at parties.
+3,Extraversion,EXT8,I don't like to draw attention to myself.
+3,Neuroticism,EST2,I am relaxed most of the time.
+3,Neuroticism,EST5,I am easily disturbed.
+3,Neuroticism,EST8,I have frequent mood swings.
+3,Neuroticism,EST10,I often feel blue.
+3,Agreeableness,AGR2,I am interested in people.
+3,Agreeableness,AGR5,I am not interested in other people's problems.
+3,Agreeableness,AGR7,I am not really interested in others.
+3,Agreeableness,AGR10,I make people feel at ease.
+3,Conscientiousness,CSN1,I am always prepared.
+3,Conscientiousness,CSN3,I pay attention to details.
+3,Conscientiousness,CSN5,I get chores done right away.
+3,Conscientiousness,CSN10,I am exacting in my work.
+3,Openness,OPN2,I have difficulty understanding abstract ideas.
+3,Openness,OPN3,I have a vivid imagination.
+3,Openness,OPN5,I have excellent ideas.
+3,Openness,OPN6,I do not have a good imagination.
+4,Extraversion,EXT2,I don't talk a lot.
+4,Extraversion,EXT4,I keep in the background.
+4,Extraversion,EXT5,I start conversations.
+4,Extraversion,EXT9,I don't mind being the center of attention.
+4,Neuroticism,EST2,I am relaxed most of the time.
+4,Neuroticism,EST4,I seldom feel blue.
+4,Neuroticism,EST6,I get upset easily.
+4,Neuroticism,EST9,I get irritated easily.
+4,Agreeableness,AGR4,I sympathize with others' feelings.
+4,Agreeableness,AGR7,I am not really interested in others.
+4,Agreeableness,AGR9,I feel others' emotions.
+4,Agreeableness,AGR10,I make people feel at ease.
+4,Conscientiousness,CSN3,I pay attention to details.
+4,Conscientiousness,CSN6,I often forget to put things back in their proper place.
+4,Conscientiousness,CSN7,I like order.
+4,Conscientiousness,CSN9,I follow a schedule.
+4,Openness,OPN1,I have a rich vocabulary.
+4,Openness,OPN2,I have difficulty understanding abstract ideas.
+4,Openness,OPN7,I am quick to understand things.
+4,Openness,OPN10,I am full of ideas.
